@@ -167,6 +167,7 @@ main {
   font-family: 'Raleway', sans-serif;
   font-weight: bold;
   font-size: 40px;
+  text-transform: uppercase;
 }
 
 .lots__card-items {
